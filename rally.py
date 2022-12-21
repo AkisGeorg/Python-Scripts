@@ -4,7 +4,7 @@ attempts = 0
 min_name = ""
 min_time = 181
 
-for i in range(4):
+for i in range(36):
     name = input("Όνομα οδηγού: ")
     time = int(input("Χρόνος οδηγού σε δευτερόλεπτα: "))
     if time <= 180:
